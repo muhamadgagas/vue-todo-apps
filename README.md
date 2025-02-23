@@ -1,7 +1,6 @@
 # vue-todo-apps
 
-This template should help get you started developing with Vue 3 in Vite.
-[Live Demo](https://precious-paprenjak-9eae88.netlify.app/)
+## [Live Demo](https://precious-paprenjak-9eae88.netlify.app/)
 ## Recommended IDE Setup
 
 [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
